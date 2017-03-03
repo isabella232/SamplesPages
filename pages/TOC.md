@@ -5,3 +5,4 @@
 ### [Hub Page](pagetypes/hubpage.md)
 ### [Landing Page](pagetypes/landingpage.md)
 ### [Search Page](pagetypes/search.md)
+### [Reference Page](pagetypes/system.string.yml)
