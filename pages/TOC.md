@@ -1,8 +1,8 @@
 # [Index](index.md)
-## Page Types
-### [Conceptual Page](pagetypes/conceptual.md)
-### [Content Page](pagetypes/content.md)
-### [Hub Page](pagetypes/hubpage.md)
-### [Landing Page](pagetypes/landingpage.md)
-### [Search Page](pagetypes/search.md)
-### [Reference Page](pagetypes/system.string.yml)
+## أنواع الصفحة
+### [المفاهيمي](pagetypes/conceptual.md)
+### [المحتوى Page](pagetypes/content.md)
+### [لوحة الوصل Page](pagetypes/hubpage.md)
+### [الهبوط Page](pagetypes/landingpage.md)
+### [البحث Page](pagetypes/search.md)
+### [مرجع Page](pagetypes/system.string.yml)
