@@ -31,7 +31,10 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "ROBOTS": "NOINDEX, NOFOLLOW"
+      "ROBOTS": "NOINDEX, NOFOLLOW",
+      "ms.author": "duncanma",
+      "ms.service": "non-product-specific",
+      "ms.date": "03/13/2017"
     },
     "fileMetadata": {},
     "template": [],

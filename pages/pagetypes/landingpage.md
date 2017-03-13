@@ -11,7 +11,7 @@ layout: LandingPage
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img src="http://docs.microsoft.com/en-us/media/hubs/azure/azure-arch-1.svg" alt="" />
+                            <img src="http://docs.microsoft.com/en-us/media/hubs/azure/azure-arch-1.svg" alt="Azure Architecture" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -30,7 +30,7 @@ layout: LandingPage
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img src="http://docs.microsoft.com/en-us/media/hubs/azure/azure-arch-1.svg" alt="" />
+                            <img src="http://docs.microsoft.com/en-us/media/hubs/azure/azure-arch-1.svg" alt="Azure Architecture" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -54,7 +54,7 @@ layout: LandingPage
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="" />
+                            <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -73,7 +73,7 @@ layout: LandingPage
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="" />
+                            <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -92,7 +92,7 @@ layout: LandingPage
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="" />
+                            <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -111,7 +111,7 @@ layout: LandingPage
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="" />
+                            <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -135,7 +135,7 @@ layout: LandingPage
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="" />
+                            <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -154,7 +154,7 @@ layout: LandingPage
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="" />
+                            <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -178,7 +178,7 @@ layout: LandingPage
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="" />
+                            <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -197,7 +197,7 @@ layout: LandingPage
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="" />
+                            <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -216,7 +216,7 @@ layout: LandingPage
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="" />
+                            <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" />
                         </div>
                     </div>
                     <div class="cardText">
