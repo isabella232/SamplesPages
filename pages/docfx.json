@@ -34,7 +34,10 @@
       "ROBOTS": "NOINDEX, NOFOLLOW",
       "ms.author": "duncanma",
       "ms.service": "non-product-specific",
-      "ms.date": "03/13/2017"
+      "ms.date": "03/13/2017",
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "MicrosoftDocs/SamplesPages",
+      "feedback_product_url": "mailto://duncanma@microsoft.com"
     },
     "fileMetadata": {},
     "template": [],
