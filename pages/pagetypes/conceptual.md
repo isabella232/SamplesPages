@@ -51,4 +51,10 @@ End If
 
 ## Video Sample
 
-> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE2pkXv]
+With jsllPostMessage
+
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE2pkXv?jsllPostMessage=true ]
+
+Without
+
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE2pkXv ]
