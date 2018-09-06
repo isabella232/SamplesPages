@@ -6,14 +6,14 @@ dev_langs:
 ---
 
 # Conceptual Page
- 
+
 ## Markdown Sample
 
 ```csharp
 bool wipSupported = SYNTAX POWERRRR int;
 ```
 
-Things can be really empty in this world, and I don't just mean the music world. It can become a very meaningless place if you don't really understand: 'who am I? Why am I here? What am I doing?' To feel fulfilment and have a deeper level of understanding, personally, that is the most important thing. Work gives you meaning and purpose and life is empty without it. I am convinced that material things can contribute a lot to making one's life pleasant, but, basically, if you do not have very good friends and relatives who matter to you, life will be really empty and sad and material things cease to be important. I have a simple philosophy: Fill what's empty. Empty what's full. Scratch where it itches.
+Things can be really empty in this world, and I don't just mean the music world. It can become a very meaningless place if you don't really understand: 'who am I? Why am I here? What am I doing?' To feel fulfillment and have a deeper level of understanding, personally, that is the most important thing. Work gives you meaning and purpose and life is empty without it. I am convinced that material things can contribute a lot to making one's life pleasant, but, basically, if you do not have very good friends and relatives who matter to you, life will be really empty and sad and material things cease to be important. I have a simple philosophy: Fill what's empty. Empty what's full. Scratch where it itches.
 
 ```cpp
 BOOL COOORD >>> - << std.lib->DESTROY
@@ -42,9 +42,13 @@ Else
 End If
 ```
 
-```xml  
-<?xml version="1.0" encoding="utf-8"?>  
-<AutoVisualizer xmlns="http://schemas.microsoft.com/vstudio/debugger/natvis/2010">  
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<AutoVisualizer xmlns="http://schemas.microsoft.com/vstudio/debugger/natvis/2010">
   <Type Name="MyNamespace::CFoo"></Type>
-</AutoVisualizer>  
-``` 
+</AutoVisualizer>
+```
+
+## Video Sample
+
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE2pkXv]
