@@ -51,10 +51,11 @@ End If
 
 ## Video Sample
 
-With jsllPostMessage
+With locale 
 
-> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE2pkXv?jsllPostMessage=true ]
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE2pkXv ]
 
 Without
 
-> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE2pkXv ]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2pkXv ]
+
