@@ -41,6 +41,7 @@
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "pages"
+    "dest": "pages",
+    "markdownEngineName": "markdig"
   }
 }
