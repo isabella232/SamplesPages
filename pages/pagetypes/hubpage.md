@@ -54,8 +54,8 @@ description: Learn how to deploy, customize, manage and use Microsoft Dynamics 3
                           </div>
                         </div>
                         <div class="cardText">
-                          <h3>What's new</h3>
-                          <p>What's new in this release</p>
+                          <h3>What&#39;s new</h3>
+                          <p>What&#39;s new in this release</p>
                         </div>
                       </div>
                     </div>
@@ -74,7 +74,7 @@ description: Learn how to deploy, customize, manage and use Microsoft Dynamics 3
                           </div>
                         </div>
                         <div class="cardText">
-                          <h3>Setup & administration</h3>
+                          <h3>Setup &amp; administration</h3>
                           <p>Set up and administer your service</p>
                         </div>
                       </div>
@@ -141,8 +141,8 @@ description: Learn how to deploy, customize, manage and use Microsoft Dynamics 3
                           </div>
                         </div>
                         <div class="cardText">
-                          <h3>What's new</h3>
-                          <p>What's new in this release </p>
+                          <h3>What&#39;s new</h3>
+                          <p>What&#39;s new in this release </p>
                         </div>
                       </div>
                     </div>
@@ -161,7 +161,7 @@ description: Learn how to deploy, customize, manage and use Microsoft Dynamics 3
                           </div>
                         </div>
                         <div class="cardText">
-                          <h3>Setup & administration</h3>
+                          <h3>Setup &amp; administration</h3>
                           <p>Set up and administer your service</p>
                         </div>
                       </div>
@@ -228,8 +228,8 @@ description: Learn how to deploy, customize, manage and use Microsoft Dynamics 3
                           </div>
                         </div>
                         <div class="cardText">
-                          <h3>What's new</h3>
-                          <p>What's new in this release </p>
+                          <h3>What&#39;s new</h3>
+                          <p>What&#39;s new in this release </p>
                         </div>
                       </div>
                     </div>
@@ -248,7 +248,7 @@ description: Learn how to deploy, customize, manage and use Microsoft Dynamics 3
                           </div>
                         </div>
                         <div class="cardText">
-                          <h3>Setup & administration</h3>
+                          <h3>Setup &amp; administration</h3>
                           <p>Set up and administer your service</p>
                         </div>
                       </div>
@@ -315,8 +315,8 @@ description: Learn how to deploy, customize, manage and use Microsoft Dynamics 3
                           </div>
                         </div>
                         <div class="cardText">
-                          <h3>What's new</h3>
-                          <p>What's new in this release</p>
+                          <h3>What&#39;s new</h3>
+                          <p>What&#39;s new in this release</p>
                         </div>
                       </div>
                     </div>
@@ -335,7 +335,7 @@ description: Learn how to deploy, customize, manage and use Microsoft Dynamics 3
                           </div>
                         </div>
                         <div class="cardText">
-                          <h3>Setup & administration</h3>
+                          <h3>Setup &amp; administration</h3>
                           <p>Set up and administer your service</p>
                         </div>
                       </div>
@@ -402,8 +402,8 @@ description: Learn how to deploy, customize, manage and use Microsoft Dynamics 3
                           </div>
                         </div>
                         <div class="cardText">
-                          <h3>What's new</h3>
-                          <p>Discover what's new in this release</p>
+                          <h3>What&#39;s new</h3>
+                          <p>Discover what&#39;s new in this release</p>
                         </div>
                       </div>
                     </div>
@@ -422,7 +422,7 @@ description: Learn how to deploy, customize, manage and use Microsoft Dynamics 3
                           </div>
                         </div>
                         <div class="cardText">
-                          <h3>BI & reporting</h3>
+                          <h3>BI &amp; reporting</h3>
                           <p>Design and use reports for your business</p>
                         </div>
                       </div>
@@ -522,7 +522,7 @@ description: Learn how to deploy, customize, manage and use Microsoft Dynamics 3
                           </div>
                         </div>
                         <div class="cardText">
-                          <h3>Project management & accounting</h3>
+                          <h3>Project management &amp; accounting</h3>
                           <p>Manage projects</p>
                         </div>
                       </div>
@@ -542,7 +542,7 @@ description: Learn how to deploy, customize, manage and use Microsoft Dynamics 3
                           </div>
                         </div>
                         <div class="cardText">
-                          <h3>Retail & commerce</h3>
+                          <h3>Retail &amp; commerce</h3>
                           <p>Configure and use retail functionality</p>
                         </div>
                       </div>
@@ -582,7 +582,7 @@ description: Learn how to deploy, customize, manage and use Microsoft Dynamics 3
                           </div>
                         </div>
                         <div class="cardText">
-                          <h3>System administration & Lifecycle Services</h3>
+                          <h3>System administration &amp; Lifecycle Services</h3>
                           <p>Administer your implementation and environment</p>
                         </div>
                       </div>
@@ -1175,8 +1175,8 @@ description: Learn how to deploy, customize, manage and use Microsoft Dynamics 3
                           </div>
                         </div>
                         <div class="cardText">
-                          <h3>What's new</h3>
-                          <p>What's new for developers in this release</p>
+                          <h3>What&#39;s new</h3>
+                          <p>What&#39;s new for developers in this release</p>
                         </div>
                       </div>
                     </div>
@@ -1221,8 +1221,8 @@ description: Learn how to deploy, customize, manage and use Microsoft Dynamics 3
                           </div>
                         </div>
                         <div class="cardText">
-                          <h3>What's new</h3>
-                          <p>What's new for developers in this release</p>
+                          <h3>What&#39;s new</h3>
+                          <p>What&#39;s new for developers in this release</p>
                         </div>
                       </div>
                     </div>
@@ -1267,8 +1267,8 @@ description: Learn how to deploy, customize, manage and use Microsoft Dynamics 3
                           </div>
                         </div>
                         <div class="cardText">
-                          <h3>What's new</h3>
-                          <p>What's new for developers in this release</p>
+                          <h3>What&#39;s new</h3>
+                          <p>What&#39;s new for developers in this release</p>
                         </div>
                       </div>
                     </div>
@@ -1313,8 +1313,8 @@ description: Learn how to deploy, customize, manage and use Microsoft Dynamics 3
                           </div>
                         </div>
                         <div class="cardText">
-                          <h3>What's new</h3>
-                          <p>What's new for developers in this release</p>
+                          <h3>What&#39;s new</h3>
+                          <p>What&#39;s new for developers in this release</p>
                         </div>
                       </div>
                     </div>
